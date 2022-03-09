@@ -3,7 +3,6 @@
 
 - 💬 Ask me about **Flutter, Kotlin, Java, Dart, Firebase**
 
-- 📫 How to reach me **d.errorfound@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
