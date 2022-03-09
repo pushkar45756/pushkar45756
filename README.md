@@ -3,9 +3,9 @@
 
 - 💬 Ask me about **Flutter, Kotlin, Java, Dart, Firebase**
 
+- 📫 How to reach me **pushkar.srivastava@infostride.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
